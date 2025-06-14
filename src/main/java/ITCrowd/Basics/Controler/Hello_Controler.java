@@ -1,16 +1,16 @@
-package ITCrowd.Basics.Controler;
-
-
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
-
-@RestController
-@RequestMapping("/api")
-public class Hello_Controler {
-
-    @GetMapping("/hello")
-    public String Hello(){
-        return "Hello Choti";
-    }
-}
+//package ITCrowd.Basics.Controler;
+//
+//
+//import org.springframework.web.bind.annotation.GetMapping;
+//import org.springframework.web.bind.annotation.RequestMapping;
+//import org.springframework.web.bind.annotation.RestController;
+//
+//@RestController
+//@RequestMapping("/api")
+//public class Hello_Controler {
+//
+//    @GetMapping("/hello")
+//    public String Hello(){
+//        return "Hello Choti";
+//    }
+//}
